@@ -1,0 +1,241 @@
+2019-04-06 18:02:32,862 - root - INFO - Initializing photobooth
+2019-04-06 18:02:32,862 - root - INFO - Photobooth version: unknown
+2019-04-06 18:02:32,863 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:02:32,864 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:02:32,890 - root - INFO - GPIO disabled
+2019-04-06 18:02:32,890 - root - INFO - Number of last existing file: 0
+2019-04-06 18:02:32,890 - root - INFO - Saving pictures as "2019-04-06/photoboothXXXXX.jpg"
+2019-04-06 18:02:32,891 - root - INFO - Number of last existing file: 0
+2019-04-06 18:02:32,891 - root - INFO - Saving pictures as "2019-04-06/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:02:33,360 - root - INFO - Using printer ""
+2019-04-06 18:02:46,673 - root - INFO - Initializing photobooth
+2019-04-06 18:02:46,673 - root - INFO - Photobooth version: unknown
+2019-04-06 18:02:46,673 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:02:46,674 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:02:46,693 - root - INFO - Number of last existing file: 0
+2019-04-06 18:02:46,695 - root - INFO - Saving pictures as "2019-04-06/photoboothXXXXX.jpg"
+2019-04-06 18:02:46,695 - root - INFO - GPIO disabled
+2019-04-06 18:02:46,697 - root - INFO - Number of last existing file: 0
+2019-04-06 18:02:46,697 - root - INFO - Saving pictures as "2019-04-06/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:02:46,923 - root - INFO - Using printer ""
+2019-04-06 18:02:54,857 - root - INFO - ['sudo', '-A', 'date', '-s', '20190406 18:02']
+2019-04-06 18:02:54,857 - root - INFO - Setting date to "20190406 18:02"
+2019-04-06 18:02:54,880 - root - ERROR - Failed to execute "sudo -A date -s 20190406 18:02": "sudo: no hay programa askpass especificado, intente establecer SUDO_ASKPASS
+"
+2019-04-06 18:02:54,898 - root - INFO - Restarting photobooth and reloading config
+2019-04-06 18:02:54,899 - root - INFO - Photobooth version: unknown
+2019-04-06 18:02:54,899 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:02:54,901 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:02:54,911 - root - INFO - Number of last existing file: 0
+2019-04-06 18:02:54,912 - root - INFO - Saving pictures as "2019-04-06/photoboothXXXXX.jpg"
+2019-04-06 18:02:54,913 - root - INFO - Number of last existing file: 0
+2019-04-06 18:02:54,913 - root - INFO - Saving pictures as "2019-04-06/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:02:54,914 - root - INFO - GPIO disabled
+2019-04-06 18:02:55,172 - root - INFO - Using printer ""
+2019-04-06 18:07:40,968 - root - INFO - Initializing photobooth
+2019-04-06 18:07:40,968 - root - INFO - Photobooth version: unknown
+2019-04-06 18:07:40,969 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:07:40,970 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:07:40,986 - root - INFO - Number of last existing file: 0
+2019-04-06 18:07:40,987 - root - INFO - Saving pictures as "2019-04-06/photoboothXXXXX.jpg"
+2019-04-06 18:07:40,988 - root - INFO - Number of last existing file: 0
+2019-04-06 18:07:40,989 - root - INFO - Saving pictures as "2019-04-06/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:07:40,991 - root - INFO - GPIO disabled
+2019-04-06 18:07:41,229 - root - INFO - Using printer ""
+2019-04-06 18:08:15,337 - root - INFO - Writing config file "photobooth.cfg"
+2019-04-06 18:08:15,359 - root - INFO - Restarting photobooth and reloading config
+2019-04-06 18:08:15,359 - root - INFO - Photobooth version: unknown
+2019-04-06 18:08:15,359 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:08:15,362 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:08:15,374 - root - INFO - Number of last existing file: 0
+2019-04-06 18:08:15,375 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photoboothXXXXX.jpg"
+2019-04-06 18:08:15,375 - root - INFO - Number of last existing file: 0
+2019-04-06 18:08:15,375 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:08:15,375 - root - INFO - GPIO disabled
+2019-04-06 18:08:15,657 - root - INFO - Using printer ""
+2019-04-06 18:08:27,679 - root - INFO - Writing config file "photobooth.cfg"
+2019-04-06 18:08:27,707 - root - INFO - Restarting photobooth and reloading config
+2019-04-06 18:08:27,707 - root - INFO - Photobooth version: unknown
+2019-04-06 18:08:27,708 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:08:27,710 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:08:27,716 - root - INFO - Number of last existing file: 0
+2019-04-06 18:08:27,717 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photoboothXXXXX.jpg"
+2019-04-06 18:08:27,718 - root - INFO - Number of last existing file: 0
+2019-04-06 18:08:27,719 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:08:27,721 - root - INFO - GPIO disabled
+2019-04-06 18:08:43,148 - root - INFO - Writing config file "photobooth.cfg"
+2019-04-06 18:08:43,166 - root - INFO - Restarting photobooth and reloading config
+2019-04-06 18:08:43,167 - root - INFO - Photobooth version: unknown
+2019-04-06 18:08:43,168 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:08:43,169 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:08:43,182 - root - INFO - Number of last existing file: 0
+2019-04-06 18:08:43,183 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photoboothXXXXX.jpg"
+2019-04-06 18:08:43,184 - root - INFO - Number of last existing file: 0
+2019-04-06 18:08:43,184 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:08:43,185 - root - INFO - GPIO disabled
+2019-04-06 18:09:20,303 - root - INFO - Initializing photobooth
+2019-04-06 18:09:20,303 - root - INFO - Photobooth version: unknown
+2019-04-06 18:09:20,304 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:09:20,305 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:09:20,324 - root - INFO - GPIO disabled
+2019-04-06 18:09:20,327 - root - INFO - Number of last existing file: 0
+2019-04-06 18:09:20,328 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photoboothXXXXX.jpg"
+2019-04-06 18:09:20,328 - root - INFO - Number of last existing file: 0
+2019-04-06 18:09:20,328 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:09:54,529 - root - INFO - Initializing photobooth
+2019-04-06 18:09:54,529 - root - INFO - Photobooth version: unknown
+2019-04-06 18:09:54,530 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:09:54,531 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:09:54,546 - root - INFO - Number of last existing file: 0
+2019-04-06 18:09:54,547 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photoboothXXXXX.jpg"
+2019-04-06 18:09:54,547 - root - INFO - Number of last existing file: 0
+2019-04-06 18:09:54,547 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:09:54,548 - root - INFO - GPIO disabled
+2019-04-06 18:10:03,840 - root - INFO - Writing config file "photobooth.cfg"
+2019-04-06 18:10:03,856 - root - INFO - Restarting photobooth and reloading config
+2019-04-06 18:10:03,857 - root - INFO - Photobooth version: unknown
+2019-04-06 18:10:03,858 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:10:03,859 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:10:03,880 - root - INFO - Number of last existing file: 0
+2019-04-06 18:10:03,880 - root - INFO - GPIO disabled
+2019-04-06 18:10:03,882 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photoboothXXXXX.jpg"
+2019-04-06 18:10:03,885 - root - INFO - Number of last existing file: 0
+2019-04-06 18:10:03,885 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:11:36,049 - root - INFO - Initializing photobooth
+2019-04-06 18:11:36,049 - root - INFO - Photobooth version: unknown
+2019-04-06 18:11:36,050 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:11:36,051 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:11:36,068 - root - INFO - GPIO disabled
+2019-04-06 18:11:36,067 - root - INFO - Number of last existing file: 0
+2019-04-06 18:11:36,069 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photoboothXXXXX.jpg"
+2019-04-06 18:11:36,070 - root - INFO - Number of last existing file: 0
+2019-04-06 18:11:36,070 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:11:53,985 - root - INFO - Initializing photobooth
+2019-04-06 18:11:53,985 - root - INFO - Photobooth version: unknown
+2019-04-06 18:11:53,985 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:11:53,986 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:11:54,003 - root - INFO - GPIO disabled
+2019-04-06 18:11:54,003 - root - INFO - Number of last existing file: 0
+2019-04-06 18:11:54,005 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photoboothXXXXX.jpg"
+2019-04-06 18:11:54,006 - root - INFO - Number of last existing file: 0
+2019-04-06 18:11:54,007 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:12:03,680 - root - INFO - Writing config file "photobooth.cfg"
+2019-04-06 18:12:03,702 - root - INFO - Restarting photobooth and reloading config
+2019-04-06 18:12:03,702 - root - INFO - Photobooth version: unknown
+2019-04-06 18:12:03,704 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:12:03,706 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:12:03,719 - root - INFO - Number of last existing file: 0
+2019-04-06 18:12:03,719 - root - INFO - GPIO disabled
+2019-04-06 18:12:03,720 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photoboothXXXXX.jpg"
+2019-04-06 18:12:03,720 - root - INFO - Number of last existing file: 0
+2019-04-06 18:12:03,720 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:12:05,376 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:12:05,486 - root - INFO - Using camera with preview functionality
+2019-04-06 18:13:14,300 - root - INFO - Saving picture as /home/patricio/Escritorio/foto2/fotos/photobooth00001.jpg
+2019-04-06 18:14:58,629 - root - INFO - Initializing photobooth
+2019-04-06 18:14:58,629 - root - INFO - Photobooth version: unknown
+2019-04-06 18:14:58,630 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:14:58,631 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:14:58,650 - root - INFO - Number of last existing file: 1
+2019-04-06 18:14:58,652 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photoboothXXXXX.jpg"
+2019-04-06 18:14:58,652 - root - INFO - GPIO disabled
+2019-04-06 18:14:58,652 - root - INFO - Number of last existing file: 0
+2019-04-06 18:14:58,652 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:15:54,335 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:15:54,373 - root - INFO - Using camera with preview functionality
+2019-04-06 18:16:59,336 - root - INFO - Saving picture as /home/patricio/Escritorio/foto2/fotos/photobooth00002.jpg
+2019-04-06 18:18:12,803 - root - INFO - Initializing photobooth
+2019-04-06 18:18:12,803 - root - INFO - Photobooth version: unknown
+2019-04-06 18:18:12,804 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:18:12,805 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:18:12,821 - root - INFO - GPIO disabled
+2019-04-06 18:18:12,826 - root - INFO - Number of last existing file: 2
+2019-04-06 18:18:12,827 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photoboothXXXXX.jpg"
+2019-04-06 18:18:12,828 - root - INFO - Number of last existing file: 0
+2019-04-06 18:18:12,829 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:18:35,394 - root - INFO - Writing config file "photobooth.cfg"
+2019-04-06 18:18:35,408 - root - INFO - Restarting photobooth and reloading config
+2019-04-06 18:18:35,409 - root - INFO - Photobooth version: unknown
+2019-04-06 18:18:35,409 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:18:35,413 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:18:35,420 - root - INFO - GPIO disabled
+2019-04-06 18:18:35,429 - root - INFO - Number of last existing file: 2
+2019-04-06 18:18:35,429 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photoboothXXXXX.jpg"
+2019-04-06 18:18:35,434 - root - INFO - Number of last existing file: 0
+2019-04-06 18:18:35,434 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:21:01,492 - root - INFO - Writing config file "photobooth.cfg"
+2019-04-06 18:21:01,527 - root - INFO - Restarting photobooth and reloading config
+2019-04-06 18:21:01,527 - root - INFO - Photobooth version: unknown
+2019-04-06 18:21:01,528 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:21:01,530 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:21:01,537 - root - INFO - GPIO disabled
+2019-04-06 18:21:01,538 - root - INFO - Number of last existing file: 2
+2019-04-06 18:21:01,539 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photoboothXXXXX.jpg"
+2019-04-06 18:21:01,540 - root - INFO - Number of last existing file: 0
+2019-04-06 18:21:01,540 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:21:27,201 - root - INFO - Writing config file "photobooth.cfg"
+2019-04-06 18:21:27,219 - root - INFO - Restarting photobooth and reloading config
+2019-04-06 18:21:27,219 - root - INFO - Photobooth version: unknown
+2019-04-06 18:21:27,221 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:21:27,223 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:21:27,234 - root - INFO - GPIO disabled
+2019-04-06 18:21:27,237 - root - INFO - Number of last existing file: 2
+2019-04-06 18:21:27,237 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photoboothXXXXX.jpg"
+2019-04-06 18:21:27,238 - root - INFO - Number of last existing file: 0
+2019-04-06 18:21:27,238 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:58:30,654 - root - INFO - Initializing photobooth
+2019-04-06 18:58:30,654 - root - INFO - Photobooth version: unknown
+2019-04-06 18:58:30,655 - root - INFO - Reading config file "/home/patricio/Escritorio/foto2/photobooth-master/photobooth/defaults.cfg"
+2019-04-06 18:58:30,656 - root - INFO - Reading config file "photobooth.cfg"
+2019-04-06 18:58:30,672 - root - INFO - GPIO disabled
+2019-04-06 18:58:30,672 - root - INFO - Number of last existing file: 2
+2019-04-06 18:58:30,673 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photoboothXXXXX.jpg"
+2019-04-06 18:58:30,674 - root - INFO - Number of last existing file: 0
+2019-04-06 18:58:30,674 - root - INFO - Saving pictures as "/home/patricio/Escritorio/foto2/fotos/photobooth_shot_XXXXX.jpg"
+2019-04-06 18:58:37,194 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:58:37,234 - root - INFO - Using camera with preview functionality
+2019-04-06 18:58:37,286 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:58:40,491 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:58:40,530 - root - INFO - Using camera with preview functionality
+2019-04-06 18:58:40,571 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:58:41,121 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:58:41,157 - root - INFO - Using camera with preview functionality
+2019-04-06 18:58:41,196 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:58:41,757 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:58:41,791 - root - INFO - Using camera with preview functionality
+2019-04-06 18:58:41,827 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:58:42,467 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:58:42,497 - root - INFO - Using camera with preview functionality
+2019-04-06 18:58:42,541 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:58:43,118 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:58:43,149 - root - INFO - Using camera with preview functionality
+2019-04-06 18:58:43,190 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:58:43,930 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:58:43,969 - root - INFO - Using camera with preview functionality
+2019-04-06 18:58:44,013 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:58:48,843 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:58:48,875 - root - INFO - Using camera with preview functionality
+2019-04-06 18:58:48,923 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:58:49,622 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:58:49,653 - root - INFO - Using camera with preview functionality
+2019-04-06 18:58:49,694 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:58:50,238 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:58:50,270 - root - INFO - Using camera with preview functionality
+2019-04-06 18:58:50,312 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:58:51,265 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:58:51,303 - root - INFO - Using camera with preview functionality
+2019-04-06 18:58:51,342 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:58:53,676 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:58:53,715 - root - INFO - Using camera with preview functionality
+2019-04-06 18:58:53,752 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:58:54,364 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:58:54,396 - root - INFO - Using camera with preview functionality
+2019-04-06 18:58:54,435 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:59:01,464 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:59:01,493 - root - INFO - Using camera with preview functionality
+2019-04-06 18:59:01,532 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:59:05,425 - root - INFO - Using gphoto2 via command line
+2019-04-06 18:59:05,462 - root - INFO - Using camera with preview functionality
+2019-04-06 18:59:43,614 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:59:46,518 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
+2019-04-06 18:59:59,037 - root - ERROR - Camera: Command 'gphoto2 --force-overwrite --quiet --capture-image-and-download --filename /dev/shm/photobooth.jpg' returned non-zero exit status 1
